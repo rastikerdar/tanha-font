@@ -10,7 +10,7 @@
 </div>
 
 
-<pre><code>
+```css
 @font-face {
     font-family: Tanha;
     src: url('Tanha.eot');
@@ -28,4 +28,4 @@
        url('Tanha-Bold.ttf') format('truetype');
     font-weight: bold;
 }
-</code></pre>
+```
