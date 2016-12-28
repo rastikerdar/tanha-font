@@ -19,15 +19,6 @@
          url('Tanha.ttf') format('truetype');
     font-weight: normal;
 }
-
-@font-face {
-    font-family: Tanha;
-    src: url('Tanha-Bold.eot');
-    src: url('Tanha-Bold.eot?#iefix') format('embedded-opentype'),
-       url('Tanha-Bold.woff') format('woff'),
-       url('Tanha-Bold.ttf') format('truetype');
-    font-weight: bold;
-}
 ```
 
 ## Install
