@@ -29,3 +29,25 @@ Arch user's could use [tanha-fonts](https://aur.archlinux.org/packages/tanha-fon
 ```shell
 pacaur -S tanha-fonts
 ```
+
+
+#### Linux
+gnu/inux users could use [kateb](https://github.com/kiamazi/kateb) font manager, to install tanha font.
+
+ubuntu users must install this dependensies too:
+```
+sudo apt install openssl libssl-dev
+````
+
+##### install kateb
+```
+sudo cpan kateb
+```
+and
+```
+kateb install tanha
+```
+or
+```
+kateb update tanha
+```
