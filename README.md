@@ -22,7 +22,7 @@
 ```
 
 ## Install
-####Arch Linux
+#### Arch Linux
 
 Arch user's could use [tanha-fonts](https://aur.archlinux.org/packages/tanha-fonts/) package from [AUR](https://aur.archlinux.org/) repository to install tanha font. Use your favourite [AUR helper](https://wiki.archlinux.org/index.php/AUR_helpers) like pacaur or yaourt for installing package:
 
@@ -32,17 +32,9 @@ pacaur -S tanha-fonts
 
 
 #### Linux
-gnu/inux users could use [kateb](https://github.com/kiamazi/kateb) font manager, to install tanha font.
+gnu/linux users could use [kateb](https://github.com/kiamazi/kateb) font manager, to install tanha font.
 
-ubuntu users must install this dependensies too:
 ```
-sudo apt install openssl libssl-dev
-````
-
-##### install kateb
-```
-sudo cpan kateb
-
 kateb install tanha
 or
 kateb update tanha
