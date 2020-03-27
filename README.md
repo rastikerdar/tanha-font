@@ -31,7 +31,7 @@ pacaur -S tanha-fonts
 ```
 
 
-#### Linux
+#### GNU/Linux
 gnu/linux users could use [kateb](https://github.com/kiamazi/kateb) font manager, to install tanha font.
 
 ```
