@@ -22,10 +22,20 @@
 ```
 
 ## Install
-####Arch Linux
+#### Arch Linux
 
 Arch user's could use [tanha-fonts](https://aur.archlinux.org/packages/tanha-fonts/) package from [AUR](https://aur.archlinux.org/) repository to install tanha font. Use your favourite [AUR helper](https://wiki.archlinux.org/index.php/AUR_helpers) like pacaur or yaourt for installing package:
 
 ```shell
 pacaur -S tanha-fonts
+```
+
+
+#### GNU/Linux
+gnu/linux users could use [kateb](https://github.com/kiamazi/kateb) font manager, to install tanha font.
+
+```
+kateb install tanha
+or
+kateb update tanha
 ```
