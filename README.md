@@ -1,5 +1,8 @@
 <h1 id="tanha-font">Tanha Font</h1>
 <p>A Persian (Farsi) Font</p>
+
+## توسعه این پروژه متوقف و بایگانی شده است. این موضوع شامل تمامی ابعاد پروژه از طراحی گرافته تا رفع اشکال می‌شود. قسمت ایشوهای مخزن همچنان باز است.
+
 <p dir="rtl">فونت (قلم) فارسی تنها</p>
 <p dir="rtl"><a href="http://rastikerdar.github.io/tanha-font/">نمایش فونت</a></p>
 <p dir="rtl">با تشکر از برنامه <a href="https://fontforge.github.io">FontForge</a></p>
